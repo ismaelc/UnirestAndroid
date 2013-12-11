@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mashape Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="edit_message">Ask a question</string>
+    <string name="button_send">Send</string>
+    <string name="result">Result</string>
+
+</resources>
