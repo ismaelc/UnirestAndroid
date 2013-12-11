@@ -1,0 +1,1 @@
+Please refer to this post [http://blog.mashape.com/post/69639276345/using-unirest-java-for-your-android-projects](http://blog.mashape.com/post/69639276345/using-unirest-java-for-your-android-projects)
